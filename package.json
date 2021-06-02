@@ -1,0 +1,16 @@
+{
+  "name": "polluting-cars",
+  "version": "1.0.0",
+  "description": "In a car check center you want to know the average number of polluting points of the N cars that arrive. Likewise, you want to know the polluting points of the car that polluted the least and the one that polluted the most.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/polluting-cars"
+  },
+ 
+  "keywords": ["js","javascript","calculation","car","average","contamination","polluting"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
